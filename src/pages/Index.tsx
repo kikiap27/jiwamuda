@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import BottomNavigation from '@/components/BottomNavigation';
 import Beranda from './Beranda';
